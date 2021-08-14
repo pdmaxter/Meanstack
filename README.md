@@ -1,1 +1,1 @@
-# Meanstack
+# ai-project
