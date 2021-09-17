@@ -1,6 +1,6 @@
 version: 1.2
 projotectDetail:
-  platform: "node : 0.0.1"
+  platform: "node : 16.9.0"
   projectid: uLA3xQis3
 
 jobs:
@@ -8,5 +8,5 @@ jobs:
     appName: "Meanstack"
 
 workflows:
-  - scripts
+  - deploy
 
